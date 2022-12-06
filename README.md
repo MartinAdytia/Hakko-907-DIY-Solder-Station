@@ -35,8 +35,10 @@
 8. NPN Transistors (BC547/S8050 Recommended)
 9. LM324N Operational Amplifier
 10. AMS1117 3.3V Linear Voltage Regulator
-11. Resistors, Capacitors and Diodes
-12. XT60 Connector
+11. Buck Converter
+12. Resistors, Capacitors and Diodes
+13. XT60/DC Connector
+14. 24V Power Supply/Battery
 
   
 
