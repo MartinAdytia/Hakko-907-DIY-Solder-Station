@@ -16,4 +16,4 @@
 
 
 
-![Product]<img src="[https://raw.githubusercontent.com/MartinAdytia/Hakko-907-DIY-Solder-Station/main/images/Product.jpeg]" width="400" height="790">
+![Product]<img src="[https://raw.githubusercontent.com/MartinAdytia/Hakko-907-DIY-Solder-Station/main/images/Product.jpeg]" width="600" height="450">
