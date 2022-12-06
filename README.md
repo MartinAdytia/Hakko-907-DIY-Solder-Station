@@ -20,3 +20,19 @@
   <a href="https://raw.githubusercontent.com/MartinAdytia/Hakko-907-DIY-Solder-Station/main/images/Product.jpeg">
     <img src="https://raw.githubusercontent.com/MartinAdytia/Hakko-907-DIY-Solder-Station/main/images/Product.jpeg" alt="Product" height="300" width="400">
   </a>
+  
+<!-- COMPONENTS USED -->
+## Components Used
+
+1. Arduino Nano
+2. ESP8266-01
+3. Hakko 907 Soldering Iron
+4. 0.96" I2C LCD OLED Display
+5. KY-040 Rotary Encoder
+6. IRFZ44N N-Channel MOSFET
+7. NPN Transistors (BC547/S8050 Recommended)
+8. LM324N Operational Amplifier
+9. AMS1117 3.3V Linear Voltage Regulator
+10. Resistors, Capacitors and Diodes
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
