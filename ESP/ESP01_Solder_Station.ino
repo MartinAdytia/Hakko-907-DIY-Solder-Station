@@ -135,9 +135,7 @@ void loop(){
             client.println("<style>html { font-family: Helvetica; display: inline-block; margin: 0px auto; text-align: center; background-color:#AEC6CF;}</style></head>");
             
             // Web Page Heading
-            client.println("<body><h1>Praktikum SET Solder Station</h1>");
-            client.println("<body><h1>Martin Adytia - 5022201173</h1>");
-            client.println("<body><h1>Kadek Wirawan Suryajaya - 5022201244</h1>");
+            client.println("<body><h1>Hakko 907 Solder Station</h1>");
             
             // show data
             client.println("<p>Real Temp = " + String(tempstr) + "\xB0""C</p>");
