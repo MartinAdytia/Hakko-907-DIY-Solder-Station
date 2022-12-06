@@ -21,6 +21,8 @@
     <img src="https://raw.githubusercontent.com/MartinAdytia/Hakko-907-DIY-Solder-Station/main/images/Product.jpeg" alt="Product" height="300" width="400">
   </a>
   
+  
+<div align="left">
 <!-- COMPONENTS USED -->
 ## Components Used
 
