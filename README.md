@@ -14,4 +14,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product](https://raw.githubusercontent.com/MartinAdytia/Hakko-907-DIY-Solder-Station/main/images/Product.jpeg)
+
+
+![Product]<img src="[https://raw.githubusercontent.com/MartinAdytia/Hakko-907-DIY-Solder-Station/main/images/Product.jpeg]" width="400" height="790">
