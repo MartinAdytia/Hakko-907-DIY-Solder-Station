@@ -25,7 +25,6 @@
   
 <!-- COMPONENTS USED -->
 ## Components Used
-<div align="left">
 1. Arduino Nano
 2. ESP8266-01
 3. Hakko 907 Soldering Iron
@@ -36,7 +35,7 @@
 8. LM324N Operational Amplifier
 9. AMS1117 3.3V Linear Voltage Regulator
 10. Resistors, Capacitors and Diodes
-</div>
+
   
 
 ## WiFi Web App
