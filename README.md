@@ -28,13 +28,15 @@
 1. Arduino Nano
 2. ESP8266-01
 3. Hakko 907 Soldering Iron
-4. 0.96" I2C LCD OLED Display
-5. KY-040 Rotary Encoder
-6. IRFZ44N N-Channel MOSFET
-7. NPN Transistors (BC547/S8050 Recommended)
-8. LM324N Operational Amplifier
-9. AMS1117 3.3V Linear Voltage Regulator
-10. Resistors, Capacitors and Diodes
+4. GX16-6pin Connector
+5. 0.96" I2C LCD OLED Display
+6. KY-040 Rotary Encoder
+7. IRFZ44N N-Channel MOSFET
+8. NPN Transistors (BC547/S8050 Recommended)
+9. LM324N Operational Amplifier
+10. AMS1117 3.3V Linear Voltage Regulator
+11. Resistors, Capacitors and Diodes
+12. XT60 Connector
 
   
 
