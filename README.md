@@ -22,7 +22,7 @@
   </a>
   
   
-
+<div align="left">
 <!-- COMPONENTS USED -->
 ## Components Used
 <div align="left">
